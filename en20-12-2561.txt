@@ -1,0 +1,22 @@
+take away = เอา/นำ ไป (I will take you away to the restaurant : ฉันจะพาคุณไปที่ร้านอาหาร)
+go away = หาย/ไล่ ไป (She has gone away for the weekend : เธอได้หายตัวไปในช่วงสุดสัปดาห์)
+get away = หนีไป (Bring her to get away from her parent : พาเธอหนีจากพ่อแม่ของเธอ)
+-----------------------------------------------------------------------------------------------------------
+will find : จะพบ
+will find you : จะพบคุณ
+will help you : จะช่วยคุณ
+will find it creative, and innovation : คุณจะพบความคิดสร้างสรรค์และนวัตกรรม
+-----------------------------------------------------------------------------------------------------------
+believe that = เชื่อว่า
+sure that = แน่ใจว่า
+know that = รู้ว่า
+go and see = ไปดู, ไปเยี่ยม
+-----------------------------------------------------------------------------------------------------------
+Think about = คิดแบบพิจารณา
+Thinking outside the box = คิดนอกกรอบ
+innovative ideas = creative
+to take advantage of  = เพื่อใช้ประโยชน์จาก (Handling to take advantage of the Tomcat-specific : การจัดการเพื่อใช้ประโยชน์จาก Tomcat โดยเฉพาะ)
+to be succeed = จะประสบความสำเร็จ
+to be able = เพื่อให้สามารถ (to be able to do something : เพื่อให้สามารถทำอะไรบางอย่าง)
+It's more commonly known as "..." (เป็นที่รู้กันทั่วไปว่า Spring boot)
+judge = ผู้พิพากษา, พิพากษ์, ตัดสิน (I'll be the judge of that : ฉันจะเป็นผู้ตัดสินเรื่องนั้น)
