@@ -21,6 +21,39 @@ to be able = เพื่อให้สามารถ (to be able to do someth
 It's more commonly known as "..." (เป็นที่รู้กันทั่วไปว่า Spring boot)
 judge = ผู้พิพากษา, พิพากษ์, ตัดสิน (I'll be the judge of that : ฉันจะเป็นผู้ตัดสินเรื่องนั้น)
 
+be able to / be unable to + กริยาแท้ช่อง 1 (ความหมายเหมือน can)
+I'll be able to do that. (ฉันจะสามารถทำเช่นนั้นได้)
+I'm going to be unable to take away from here. (ฉันจะไม่สามารถออกไปจากที่นี่ได้)
+He was unable to swim across the lake. (เขาไม่สามารถว่ายน้ำข้ามทะเสสาบได้)
+I would like to be able to speak English. (ฉันอยากที่จะสามารถพูดภาษาอังกฤษให้ได้)
+
+seem = ดูเหมือนว่า, seem able to = ดูเหมือนว่า..สามารถ, felt able to = รู้สึก..สามารถ
+No one seemed able to help. (ดูเหมือนจะไม่มีใครสามารถช่วยเหลือได้)
+I felt able to pay her. ฉันรู้สึกว่าสามารถจ่ายเงินให้เธอได้
+You never seemed to stay close to me. (คุณดูเหมือนไม่เคยจะอยู่ใกล้ฉัน)
+I felt unable to stop crying when I heard the bad news. (ผมรู้สึกว่าจะหยุดร้องไห้ไม่ได้เมื่อได้ทราบข่าวร้าย)
+We seemed unable to help you. (ดูเหมือนพวกเราจะไม่สามารถช่วยเหลือคุณได้)
+
+Apart from those, .. = นอกเหนือจากนั้น
+Apart from those, it is also useful in IoT, data science, game development, and various such important sectors. 
+นอกเหนือจากนั้น, มันยังเป็นประโยชน์ใน IoT, วิทยาศาสตร์ข้อมูล, การพัฒนาเกมและส่วนต่างๆที่สำคัญ
+
+more than = มากกว่า
+Nobody loves you more than I do. (ไม่มีใครรักเธอมากกว่าฉัน)
+
+higher than = สูงกว่า
+The pay for Python developers is higher than most other popular languages.
+การจ่ายเงินสำหรับนักพัฒนา Python จะสูงกว่าภาษายอดนิยมอื่น ๆ
+
+rather than = เลือก, แทนที่จะ..
+I prefer to ride a horse rather than a bike. (ฉันเลือกขี่ม้าแทนที่จะขี่จักรยาน)
+
+prefer than = ชอบมากกว่า
+prefer to / prefer not to = ชอบที่จะ, ไม่ชอบที่จะ
+I prefer to stay at home rather than to go out. (ฉันชอบที่จะอยู่บ้าน)
+I prefer not to stay at home on my holiday. (ฉันชอบที่จะอยู่บ้านในวันหยุด)
+He prefer not to disclose his information. (เขาไม่ต้องการเปิดเผยข้อมูลของเขา)
+
 On the other hand = ในทางกลับกัน
 As well as = ตลอดจน
 For this reason = สำหรับเหตุผลนี้
